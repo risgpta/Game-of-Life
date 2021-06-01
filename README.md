@@ -1,5 +1,7 @@
 
-https://user-images.githubusercontent.com/34606242/120345146-d929ee00-c317-11eb-9efb-f5b91f46ad05.mov
+https://user-images.githubusercontent.com/34606242/120362031-3d54ae00-c328-11eb-922b-f1b83a5fe12b.mp4
+
+
 
 LINK of Simulation: https://risgpta.github.io/Game-of-Life/
 
