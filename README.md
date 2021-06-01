@@ -1,4 +1,5 @@
 Simulating Game of Life
+
 Read: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 (DESKTOP VERSION ONLY)
