@@ -1,6 +1,8 @@
 
 https://user-images.githubusercontent.com/34606242/120345146-d929ee00-c317-11eb-9efb-f5b91f46ad05.mov
 
+LINK of Simulation: https://risgpta.github.io/Game-of-Life/
+
 Simulating Game of Life
 
 Read: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
@@ -31,8 +33,6 @@ Click on "Loop over next generation" to continuosly generate new generations.
 
 
 Click on "Remove all population" to clear the board. 
-
-LINK of Simulation: https://risgpta.github.io/Game-of-Life/
 
 -Ideally, the board should be an infinite board
 
