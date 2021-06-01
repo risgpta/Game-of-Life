@@ -43,4 +43,4 @@ npm install
 
 npm start
 
-Enjoy! :)
+Enjoy Beautiful patterns! :)
