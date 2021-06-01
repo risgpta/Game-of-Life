@@ -29,6 +29,8 @@ Click on "Loop over next generation" to continuosly generate new generations.
 
 Click on "Remove all population" to clear the board. 
 
+LINK of Simulation: https://risgpta.github.io/Game-of-Life/
+
 -Ideally, the board should be an infinite board
 
 CODE:
